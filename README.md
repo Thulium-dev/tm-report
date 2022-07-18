@@ -17,3 +17,8 @@ Det vigtigeste for os er at alle der ryger i databasen er med 100% sikkerhed en 
 5. Når du er joinet [discorden](https://discord.gg/Yv44C77GGy) skal du skrive "/mod-report"´og vælge "opret" så vil du få en webhook
 6. Kopier webhooken ind i config.lua. Du kan finde den under resources/[Thulium]/tm-report/
 7. Tilføj "ensure tm-report" til din server.cfg
+
+## ToDo
+
+- [ ] Lave en api
+- [ ] Lave et exemple skript til at banne
