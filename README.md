@@ -1,10 +1,10 @@
 # tm-report
 
 ## Beskrivelse
-tm-report er et skript som tager et screenshot og sender til en discord webhook når spiller trykker på en knap som bliver tit brugt til at åbne mod menuer.
+tm-report er et skript som tager et screenshot og sender til en discord webhook når spillere trykker på en knap som tit bilver brugt til at åbne mod menuer.
 Så er der nogle som manuelt går igennem alle billeder og siger om det er en mod menu eller ikke. 
 
-Hvis spilleren ikke modder bliver bedsked bare slettet, men hvis det er en modder vil deres identifers blive smidt i en database.
+Hvis spilleren ikke modder bliver besked bare slettet, men hvis det er en modder vil deres identifers blive smidt i en database.
 
 Det vigtigeste for os er at alle der ryger i databasen er med 100% sikkerhed en modder.
 
