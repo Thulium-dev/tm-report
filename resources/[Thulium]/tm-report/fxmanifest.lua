@@ -3,11 +3,13 @@ game 'gta5'
 
 author 'Thulium.dev'
 description 'Takes a screenshot of potential modders and sends it to a manual review'
-version '0.1.1'
+version '0.1.2'
 
 client_script 'client.lua'
-shared_script 'config.lua'
-server_script 'server.lua'
+server_scripts {
+    'config.lua',
+    'server.lua'
+}
 
 escrow_ignore {
     'config.lua'
