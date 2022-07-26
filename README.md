@@ -20,5 +20,6 @@ Det vigtigeste for os er at alle der ryger i databasen er med 100% sikkerhed en 
 
 ## ToDo
 
-- [ ] Lave en api
-- [ ] Lave et exemple skript til at banne
+- [X] Lave en api
+- [X] [Lave et exemple skript til at banne](https://github.com/Thulium-dev/tm-ban)
+- [ ] Find host
