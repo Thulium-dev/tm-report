@@ -14,7 +14,7 @@ Det vigtigeste for os er at alle der ryger i databasen er med 100% sikkerhed en 
 2. Du smider "resources" mappen der hvor du har din "resources" mappe.
 3. Hvis du ikke har [screenshot-basic](https://github.com/citizenfx/screenshot-basic) og [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) på din server skal du download dem.
 4. Join vores [discord](https://discord.gg/Yv44C77GGy) for at lave en webhook
-5. Når du er joinet [discorden](https://discord.gg/Yv44C77GGy) skal du skrive "/mod-report"´og vælge "opret" så vil du få en webhook
+5. Når du er joinet [discorden](https://discord.gg/Yv44C77GGy) skal du skrive "/CitizenBan"´og vælge "opret" så vil du få en webhook
 6. Kopier webhooken ind i config.lua. Du kan finde den under resources/[Thulium]/tm-report/
 7. Tilføj "ensure tm-report" til din server.cfg
 8. Install [tm-ban](https://github.com/Thulium-dev/tm-ban) for at ban folk i databasen
