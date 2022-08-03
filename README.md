@@ -1,27 +1,27 @@
 # tm-report
 
-## Beskrivelse
-tm-report er et skript som tager et screenshot og sender til en discord webhook når spillere trykker på en knap som tit bilver brugt til at åbne mod menuer.
-Så er der nogle som manuelt går igennem alle billeder og siger om det er en mod menu eller ikke. 
+## Description
+tm-report is a script that takes a screenshot and sends to a discord webhook when players press a button which is often used to open mod menus.
+Then there are some who manually go through all the pictures and say whether it is a mod menu or not. 
 
-Hvis spilleren ikke modder bliver besked bare slettet, men hvis det er en modder vil deres identifers blive smidt i en database.
+If the player is not a modder the message just get deleted, but if it is a modder their identifers will be thrown into a database.
 
-Det vigtigeste for os er at alle der ryger i databasen er med 100% sikkerhed en modder.
+The most important thing for us is that everyone who gets in the database is with 100% certainty a modder.
 
 ## Install guide
 
-1. Du starter med at download det her repo.
-2. Du smider "resources" mappen der hvor du har din "resources" mappe.
-3. Hvis du ikke har [screenshot-basic](https://github.com/citizenfx/screenshot-basic) og [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) på din server skal du download dem.
-4. Join vores [discord](https://discord.gg/mkjGCxzQpj) for at lave en webhook
-5. Når du er joinet [discorden](https://discord.gg/mkjGCxzQpj) skal du skrive "/CitizenBan"´og vælge "opret" så vil du få en webhook
+1. You start by downloading this repo
+2. You throw the "resources" folder where you have your "resources" folder
+3. If you do not have [screenshot-basic](https://github.com/citizenfx/screenshot-basic) and [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) on your server, you have to download them
+4. Join our [discord](https://discord.gg/mkjGCxzQpj) to make a webhook
+5. When you have joined [discorden](https://discord.gg/mkjGCxzQpj) you need to type "/CitizenBan" and select "create" then you will get a webhook
 6. Kopier webhooken ind i config.lua. Du kan finde den under resources/[Thulium]/tm-report/
-7. Tilføj "ensure tm-report" til din server.cfg
-8. Install [tm-ban](https://github.com/Thulium-dev/tm-ban) for at ban folk i databasen
+7. Add "start tm-report" to your server.cfg
+8. Install [tm-ban](https://github.com/Thulium-dev/tm-ban) to ban people in the database
 
 ## ToDo
 
-- [X] Lave en api
-- [X] [Lave et exemple skript til at banne](https://github.com/Thulium-dev/tm-ban)
+- [X] Make an api
+- [X] [Make an exemple script to ban](https://github.com/Thulium-dev/tm-ban)
 - [ ] Find host
-- [ ] Lave en manuel søge side
+- [ ] Make a manual search page
