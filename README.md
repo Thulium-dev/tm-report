@@ -23,5 +23,5 @@ The most important thing for us is that everyone who gets in the database is wit
 
 - [X] Make an api
 - [X] [Make an exemple script to ban](https://github.com/Thulium-dev/tm-ban)
-- [ ] Find host
+- [X] Find host
 - [ ] Make a manual search page
