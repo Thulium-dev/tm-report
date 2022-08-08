@@ -15,7 +15,7 @@ The most important thing for us is that everyone who gets in the database is wit
 3. If you do not have [screenshot-basic](https://github.com/citizenfx/screenshot-basic) and [discord-screenshot](https://github.com/jaimeadf/discord-screenshot) on your server, you have to download them
 4. Join our [discord](https://discord.gg/mkjGCxzQpj) to make a webhook
 5. When you have joined [discorden](https://discord.gg/mkjGCxzQpj) you need to type "/CitizenBan" and select "create" then you will get a webhook
-6. Kopier webhooken ind i config.lua. Du kan finde den under resources/[Thulium]/tm-report/
+6. Copy the webhook into config.lua. You can find it under resources/[Thulium]/tm-report/
 7. Add "start tm-report" to your server.cfg
 8. Install [tm-ban](https://github.com/Thulium-dev/tm-ban) to ban people in the database
 
