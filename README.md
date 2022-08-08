@@ -19,6 +19,12 @@ The most important thing for us is that everyone who gets in the database is wit
 7. Add "start tm-report" to your server.cfg
 8. Install [tm-ban](https://github.com/Thulium-dev/tm-ban) to ban people in the database
 
+## Showcase
+This is in danish and will be changed later
+### Scripts
+https://user-images.githubusercontent.com/68808737/183480792-93f6b148-eca9-4f83-a614-a2ad97acb79c.mp4
+### Discord Bot
+https://user-images.githubusercontent.com/68808737/183481263-b9cbc7d4-9874-4f96-8157-1e2f3bb2ab64.mp4
 ## ToDo
 
 - [X] Make an api
