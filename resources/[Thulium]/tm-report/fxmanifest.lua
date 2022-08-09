@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Thulium.dev'
 description 'Takes a screenshot of potential modders and sends it to a manual review'
-version '0.1.5'
+version '0.1.6'
 
 client_script 'client.lua'
 server_scripts {
@@ -11,9 +11,4 @@ server_scripts {
     'server.lua'
 }
 
-escrow_ignore {
-    'config.lua'
-}
-
 lua54 'yes'
-dependency '/assetpacks'
