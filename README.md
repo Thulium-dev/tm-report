@@ -25,7 +25,7 @@ The most important thing for us is that everyone who gets in the database is wit
 [discord-screenshot](https://github.com/jaimeadf/discord-screenshot)
 
 ## Showcase
-This is in danish and will be changed later
+These videos is in danish and will be changed later
 ### Scripts
 https://user-images.githubusercontent.com/68808737/183480792-93f6b148-eca9-4f83-a614-a2ad97acb79c.mp4
 ### Discord Bot
