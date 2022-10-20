@@ -19,6 +19,7 @@ The most important thing for us is that everyone who gets in the database is wit
 7. Add "start tm-report" to your server.cfg
 
 **If you want to ban people**
+
 8. Install [tm-ban](https://github.com/Thulium-dev/tm-ban) to ban people in the database
 
 ## Dependencies
